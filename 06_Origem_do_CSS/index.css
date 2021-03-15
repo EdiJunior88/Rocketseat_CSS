@@ -1,0 +1,30 @@
+/*
+    Adicionando CSS
+
+    Inline
+
+    - Atributo ( style )
+
+    <style>
+
+    - tag html que irá conter o CSS
+
+    <link>
+
+    - arquivo CSS externo
+
+    @import
+
+    - arquivo CSS externo
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&display=swap');
+
+h1{
+  color: blue;
+  font-family: 'Faster One', cursive;
+}
+
+strong{
+  color: red;
+}
