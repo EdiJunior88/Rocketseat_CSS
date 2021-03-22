@@ -19,6 +19,7 @@ Nenhuma aplicação web vive sem CSS, sem um visual e nesse guia vamos entrar de
   <li>Regra Important</li>
   <li>At Rules</li>
   <li>Shorthand</li>
+  <li>Funções</li>
   <li>DevTools</li>
   <li>Cuidados com a escrita</li>
   <li>Vendor Prefixes</li>
