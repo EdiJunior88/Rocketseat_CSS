@@ -28,4 +28,4 @@ Nenhuma aplicação web vive sem CSS, sem um visual e nesse guia vamos entrar de
 <hr/>
 
 <h4><b>Aulas:</b> :vhs: 15 Video-aulas</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> :white_check_mark: Concluído</h4>
